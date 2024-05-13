@@ -18,7 +18,7 @@ export const ContactItem = styled.li`
   padding: 3px 10px;
   width: 300px;
   height: 50px;
-  background: rgb(161, 223, 255);
+  background: #c70039;
   border-radius: 10px;
   &:hover,
   :focus {
