@@ -36,6 +36,6 @@ export const Button = styled.button`
   :focus {
     box-shadow: 3px 3px 10px -1px rgba(219, 213, 213, 0.75);
     scale: 1.1;
-    background: #a1dfff;
+    background: #c70039;
   }
 `;
